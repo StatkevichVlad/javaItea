@@ -32,7 +32,7 @@ public class Cashier  {
 	private boolean possibilityCloseCashbox() {
 		int tmp;
 		tmp = (int) Math.random() * 2;
-		if (tmp == 1) {
+		if (tmp == 2) {
 			cashBoxOpen = false;
 		}
 		return cashBoxOpen;

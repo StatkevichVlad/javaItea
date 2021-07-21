@@ -3,5 +3,6 @@
 .project
 /src/main/java/les07/
 
-/src/main/java/runners/
 
+
+/target/
